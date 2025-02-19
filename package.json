@@ -1,15 +1,8 @@
 {
-  "name": "uselibhello",
+  "name": "hellolib",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "libhello": "git+ssh://git@git.hq.forkbank.io:glopes/libhello.git"
-  }
+  "repository": "git@github.com:zzhyyy-dev/hellolib.git#main",
+  "author": "zzhyyy",
+  "license": "MIT"
 }
